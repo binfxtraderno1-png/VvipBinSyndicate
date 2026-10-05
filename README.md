@@ -1,0 +1,2 @@
+# VvipBinSyndicate
+Trading signal
